@@ -10,5 +10,7 @@
   <img alt="HTML-icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img alt="CSS-icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+<br>
+<h2>Demo Preview</h2><br>
+<img src="./assets/preview-gif.gif">
 
